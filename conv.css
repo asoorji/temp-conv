@@ -1,0 +1,31 @@
+div {    
+    background-color: red;
+    text-align: center;
+    border: solid 5px black;
+    border-radius: 10px;
+}
+
+h3 {
+    color: blue;
+    padding-top: 10px;
+}
+    
+#f {  
+    width: 200px;
+    height: 30px;
+    border: solid 1px blue;
+    border-radius: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    border: solid 1px blue;
+}
+p {
+    color: blue;
+    padding-bottom: 10px;
+}
